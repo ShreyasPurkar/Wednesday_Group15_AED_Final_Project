@@ -10,7 +10,7 @@ import com.db4o.query.Query;
 
 /**
  *
- * @author purka
+ * @author manikhandan
  */
 public class ClearDatabank {
     public static void main(String[] args) {

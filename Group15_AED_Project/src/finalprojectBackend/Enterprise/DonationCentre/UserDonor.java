@@ -8,7 +8,7 @@ import java.util.Date;
 
 /**
  *
- * @author siddharth
+ * @author manikhandan
  This Class holds all the functionalities for the UserDonor Person
  */
 public class UserDonor extends Person{

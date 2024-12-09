@@ -8,7 +8,7 @@ import java.util.ArrayList;
 
 /**
  *
- * @author siddharth
+ * @author manikhandan
  This Class holds all the functionalities for the BankDonor User
  */
 public class BankDonor extends EnterpriseClass {

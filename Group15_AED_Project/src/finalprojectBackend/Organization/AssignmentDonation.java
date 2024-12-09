@@ -12,7 +12,7 @@ import finalprojectBackend.Enterprise.SupplyChain.DeliveryAgent;
 import finalprojectBackend.Enterprise.UpcyclingCenter.UpcyclingCenterManager;
 /**
  *
- * @author siddharth
+ * @author manikhandan
  * This is a Java Class for Donation Assignment 
  */
 public class AssignmentDonation {

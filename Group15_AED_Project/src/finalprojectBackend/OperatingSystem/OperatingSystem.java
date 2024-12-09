@@ -23,7 +23,7 @@ import java.util.ArrayList;
 
 /**
  *
- * @author siddharth
+ * @author manikhandan
  * This is class for all functional methods of the Application
  */
 public class OperatingSystem {

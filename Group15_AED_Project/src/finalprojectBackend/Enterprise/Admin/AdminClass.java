@@ -8,7 +8,7 @@ import finalprojectBackend.Enterprise.EnterpriseClass;
 
 /**
  *
- * @author siddharth
+ * @author manikhandan
  This Class holds all the functionalities for the AdminClass User
  */
 public class AdminClass extends EnterpriseClass {

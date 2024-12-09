@@ -9,7 +9,7 @@ import java.util.Date;
 
 /**
  *
- * @author siddharth
+ * @author manikhandan
  */
 public class Manager extends Person{
 

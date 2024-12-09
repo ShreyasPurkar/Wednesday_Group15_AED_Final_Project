@@ -6,7 +6,7 @@ package finalprojectBackend.Components;
 
 /**
  *
- * @author siddharth
+ * @author manikhandan
  */
 public class LocationBook {
     

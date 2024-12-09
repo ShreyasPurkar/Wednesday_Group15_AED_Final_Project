@@ -6,7 +6,7 @@ package finalprojectBackend.Enterprise;
 
 /**
  *
- * @author siddharth
+ * @author manikhandan
  */
 public class EnterpriseClass {
     private String addr;
