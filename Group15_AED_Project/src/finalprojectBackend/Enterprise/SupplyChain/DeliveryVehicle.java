@@ -6,7 +6,7 @@ package finalprojectBackend.Enterprise.SupplyChain;
 
 /**
  *
- * @author siddharth
+ * @author manikhandan
  */
 public class DeliveryVehicle {
     private String dvehiclename;

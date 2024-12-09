@@ -6,7 +6,7 @@ package finalprojectBackend.Enterprise.DonationCentre;
 
 /**
  *
- * @author siddharth
+ * @author manikhandan
  This Class holds all the functionalities for the Item Component
  */
 public class Item {

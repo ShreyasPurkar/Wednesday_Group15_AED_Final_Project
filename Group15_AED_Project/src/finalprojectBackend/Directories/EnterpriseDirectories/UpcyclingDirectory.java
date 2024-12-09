@@ -9,7 +9,7 @@ import java.util.ArrayList;
 
 /**
  *
- * @author purka
+ * @author manikhandan
  */
 public class UpcyclingDirectory {
     

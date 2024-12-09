@@ -9,7 +9,7 @@ import java.util.ArrayList;
 
 /**
  *
- * @author siddharth
+ * @author manikhandan
  */
 public class UpcyclingCenterClass extends EnterpriseClass {
 

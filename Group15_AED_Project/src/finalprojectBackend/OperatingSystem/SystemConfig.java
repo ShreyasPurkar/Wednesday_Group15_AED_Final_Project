@@ -6,7 +6,7 @@ package finalprojectBackend.OperatingSystem;
 
 /**
  *
- * @author siddharth
+ * @author manikhandan
  */
 public class SystemConfig {
     public static OperatingSystem configure(){

@@ -9,7 +9,7 @@ import java.util.ArrayList;
 
 /**
  *
- * @author siddharth
+ * @author manikhandan
  */
 public class NGOClass extends EnterpriseClass {
 

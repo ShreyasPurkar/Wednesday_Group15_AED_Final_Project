@@ -6,7 +6,7 @@ package finalprojectBackend.Components;
 
 /**
  *
- * @author siddharth
+ * @author manikhandan
  * This is the utility file used to take in inputs from the user(Organization) in UI.
  */
 
