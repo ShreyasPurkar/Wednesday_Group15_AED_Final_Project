@@ -12,7 +12,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author sourabh
+ * @author shreyas purkar
  */
 public class AdminMainPageForm extends javax.swing.JPanel {
 

@@ -24,7 +24,7 @@ import javax.mail.MessagingException;
 import javax.mail.PasswordAuthentication;
 /**
  *
- * @author sourabh
+ * @author shreyas purkar
  */
 public class MainJFrameForm extends javax.swing.JFrame {
 
