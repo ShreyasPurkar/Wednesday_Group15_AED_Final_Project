@@ -173,6 +173,7 @@ public class ManagerLogin extends javax.swing.JPanel {
         jPanel3.add(cat_txt, new org.netbeans.lib.awtextra.AbsoluteConstraints(90, 713, 230, 30));
 
         catButton.setBackground(new java.awt.Color(102, 102, 102));
+        catButton.setFont(new java.awt.Font("Segoe UI", 1, 12)); // NOI18N
         catButton.setText("Set");
         catButton.setBorder(javax.swing.BorderFactory.createBevelBorder(javax.swing.border.BevelBorder.RAISED));
         catButton.addActionListener(new java.awt.event.ActionListener() {
@@ -180,7 +181,7 @@ public class ManagerLogin extends javax.swing.JPanel {
                 catButtonActionPerformed(evt);
             }
         });
-        jPanel3.add(catButton, new org.netbeans.lib.awtextra.AbsoluteConstraints(350, 720, 90, -1));
+        jPanel3.add(catButton, new org.netbeans.lib.awtextra.AbsoluteConstraints(350, 710, 90, 30));
 
         tab1.addTab("Donation History", jPanel3);
 
